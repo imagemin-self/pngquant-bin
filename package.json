@@ -1,14 +1,14 @@
 {
-	"name": "pngquant-bin",
+	"name": "@telking/pngquant-bin",
 	"version": "6.0.0",
+	"author": {
+		"name": "幸焕光",
+		"email": "xhg1945454120@gmail.com",
+		"url": "github.com/GSZS"
+	},
 	"description": "`pngquant` wrapper that makes it seamlessly available as a local dependency",
 	"license": "GPL-3.0+",
 	"repository": "imagemin/pngquant-bin",
-	"author": {
-		"name": "Kevin Mårtensson",
-		"email": "kevinmartensson@gmail.com",
-		"url": "github.com/kevva"
-	},
 	"maintainers": [
 		{
 			"name": "Sindre Sorhus",
